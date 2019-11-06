@@ -51,5 +51,3 @@ Fits the model and predicts the class by calling the functions get_k_neighbors a
 Accuracy values for both training and test data are obtained using the above knn model developed for k=1,3,5,7,9
 
 The accuracy values for both training and test data are obtained using the sklearn KNeighborsClassifier for k=1,3,5,7,9
-
-All the outputs obtained in Ipython console are included in the results file.
